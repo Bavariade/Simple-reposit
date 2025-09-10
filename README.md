@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#/usr/bin/env bash
 # create_simple_repo.sh
 # Usage: ./create_simple_repo.sh
 set -e

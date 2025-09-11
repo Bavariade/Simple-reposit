@@ -1,5 +1,5 @@
 #/usr/bin/env bash
-# create_simple_repo.sh
+# create_simple_repo.s
 # Usage: ./create_simple_repo.sh
 set -e
 

@@ -11,7 +11,7 @@ mkdir -p "$REPO_NAME"
 cd "$REPO_NAME"
 
 # Initialize git
-git init
+git ini
 
 # README.md
 cat > README.md <<EOF

@@ -1,7 +1,7 @@
 #/usr/bin/env bash
 # create_simple_repo.sh
 # Usage: ./create_simple_repo.sh
-set -e
+se -e
 
 REPO_NAME="simple-repo"
 DESCRIPTION="A basic repository for code and project management."

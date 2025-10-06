@@ -1,4 +1,4 @@
-#/uer/bin/env bash
+#/uesr/bin/env bash
 # create_simple_repo.sh
 # Usage: ./create_simple_repo.sh
 set -e
